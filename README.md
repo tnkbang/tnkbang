@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **C# and JS**
 
-- 📫 How to reach me **trieukhanhbang123@gmail.com**
+- 📫 How to reach me **tnkbang.dev@gmail.com**
 
 - ⚡ Fun fact **I am passionate about coding but my English is very bad.**
 
